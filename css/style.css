@@ -1,0 +1,126 @@
+
+
+img {
+	align-content: center;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.logo{
+	width: 16%;
+
+}
+
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+section {
+	padding: 2%;
+	margin: 2%;
+}
+
+a {
+	font-weight: bold;
+	color: white;
+}
+
+footer {
+	background-color: rgba( 0,0,0, 0.8);
+	padding-left: 15%;
+	padding-top: 5px;
+	height: 50px;
+}
+ h6 {
+ 	color:  white;
+ 	font-weight: bold;
+ 	margin-left: 2%;
+
+ }
+
+
+#h1Header {
+	font-size: 90px;
+	text-align: center;
+	text-shadow: 2px 2px 4px #000000;
+	color:white;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.cardHeader { 
+	width: 100%;
+
+}
+
+.imgDiv {
+	width: 100%;
+}
+
+.navBar {
+	background-color: rgba(0,0,0,0);
+	height: 44px;
+	width: 100%;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+
+.rowHeader {
+	padding-top: 10%;
+	padding-left: 10%;
+}
+
+
+.row {
+	margin-top: 5%;
+}
+
+.rowFooter {
+	margin-top: 10px;
+	margin-right: 0;
+}
+
+.btn{
+	align-items: center;
+    color: white;
+    border-radius: 40px;
+    height: 45px;
+    font-size:20px;
+    margin-left: 20%;
+
+    
+}
+
+.btn-blue{
+    background-color: #4d4dff;
+    width: 300px;
+}
+
+.texto-alinhado{
+	text-align: center;
+	padding: 10%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.span{
+	color:blue;
+	font-style: bold;
+}
+
+.formMargin{
+padding-top: 10%;
+padding-left: 10%;
+align-items: center;
+}
+
+#btn-cad{
+	align-items: center;
+	background-color: #4d4dff;
+    margin-left: 90%;
+
+}
+
+
