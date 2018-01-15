@@ -68,6 +68,17 @@ footer {
 
 }
 
+.titulos{
+
+	font-size: 30px;
+	text-align: center;
+	color:black;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+
 .rowHeader {
 	padding-top: 10%;
 	padding-left: 10%;
@@ -106,12 +117,13 @@ footer {
 }
 
 .span{
-	color:blue;
+	color:#004d99;
 	font-style: bold;
+	font-family: 'Signika', sans-serif;
 }
 
 .formMargin{
-padding-top: 10%;
+padding-top: 5%;
 padding-left: 10%;
 align-items: center;
 }
